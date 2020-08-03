@@ -1,5 +1,5 @@
 <?php
-$secret_key = "MaTYVoniMocYayyaya"; //Set this as your secret key, to prevent others uploading to your server.
+//$secret_key = "MaTYVoniMocYayyaya"; //Set this as your secret key, to prevent others uploading to your server.
 $sharexdir = ""; //This is your file dir, also the link..
 $domain_url = 'https://maty-mt.github.io/i';
 $lengthofstring = 6; //Length of the file name
